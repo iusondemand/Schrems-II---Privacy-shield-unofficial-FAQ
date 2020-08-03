@@ -1,5 +1,6 @@
-# Schrems-II---Privacy-shield-unofficial-FAQ
-By Valentino Spataro some FAQ for entities looking for practical instructions
+# Schrems II Privacy shield unofficial FAQ
+
+*By Valentino Spataro some FAQ for entities looking for practical instructions*
 
 
 - If you need a different license please contact me at info@privacykit.it
@@ -9,4 +10,4 @@ By Valentino Spataro some FAQ for entities looking for practical instructions
 
 - Please note: .mm (mind map) is the main file.
 
-Last version: 1.0 - 2020.8.3 (Y.m.d)
+*Last version: 1.0 - 2020.8.3 (Y.m.d)*
