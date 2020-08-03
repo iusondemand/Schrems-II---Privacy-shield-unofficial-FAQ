@@ -1,4 +1,4 @@
-# Schrems II Privacy shield unofficial FAQ
+# Schrems II - Privacy shield: unofficial FAQ
 
 *By Valentino Spataro some FAQ for entities looking for practical instructions*
 
