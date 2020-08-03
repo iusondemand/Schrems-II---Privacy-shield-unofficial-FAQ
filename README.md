@@ -7,3 +7,6 @@ By Valentino Spataro some FAQ for entities looking for practical instructions
 - If you want to translate feel free to send new translations opening a new issue.
 - If you want to help, it's appreciated :)
 
+- Please note: .mm (mind map) is the main file.
+
+Last version: 1.0 - 2020.8.3 (Y.m.d)
